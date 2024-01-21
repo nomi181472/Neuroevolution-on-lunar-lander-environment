@@ -1,7 +1,6 @@
 
 # Neuroevolution-on-lunar-lander-environment
-<video width="640" height="360" controls>
-  <source src="./videos/1.mp4" type="video/mp4">
+[Demo](https://drive.google.com/file/d/1Ox_-vUYe3O9yloKqBm6s0A48h1JwCiZk/view)
   
 </video>
 Neuroevolution emerges as a compelling alternative to reinforcement learning, offering a gradient-free approach to optimize neural networks for skill discovery. It harnesses the power of evolutionary algorithms to iteratively refine network parameters, effectively navigating complex search spaces without relying on gradient information.
